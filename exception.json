@@ -8,10 +8,6 @@
         "/PincongBackup.github.io/favicon.ico"
     ],
     [
-        "https://web.archive.org/web/2019/https://pin-cong.com/robots.txt",
-        "/PincongBackup.github.io/robots.txt"
-    ],
-    [
         "https://web.archive.org/web/2019/https://pin-cong.com/protocol/",
         "/PincongBackup.github.io/protocol/index.html"
     ],
@@ -42,5 +38,5 @@
     [
         "https://web.archive.org/web/2019/https://www.pin-cong.com/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js",
         "/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"
-    ],
+    ]
 ]
